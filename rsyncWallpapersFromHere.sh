@@ -15,4 +15,4 @@
 # --verbose, -v            increase verbosity
 # --human-readable, -h     output numbers in a human-readable format 
 
-rsync -avh --info=progress . ~/Pictures/Wallpapers/*
+rsync -avh --info=progress * ~/Pictures/Wallpapers/
